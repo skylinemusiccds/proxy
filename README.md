@@ -1,9 +1,9 @@
 # proxy
-HTTP 请求代理，CORS 跨域请求，HTTPS 支持  
+HTTP ，CORS ，HTTPS   
 HTTP request proxy, CORS cross-domain request, HTTPS support
 
-### 作用 Feature
-支持跨域请求（转换不支持跨域请求的接口），可直接发起 ajax、fetch  
+###  Feature
+ ajax、fetch  
 Support cross-domain requests (converting interfaces that do not support cross-domain requests), and directly initiate ajax, fetch
 
 支持 HTTPS（解决远程数据接口不支持 HTTPS）  
